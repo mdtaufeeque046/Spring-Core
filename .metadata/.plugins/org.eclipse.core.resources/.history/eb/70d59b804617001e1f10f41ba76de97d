@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Taufeeque
- *
- */
-module collectionFramework {
-}
