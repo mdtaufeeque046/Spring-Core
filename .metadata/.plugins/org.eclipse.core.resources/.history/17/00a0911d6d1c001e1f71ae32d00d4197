@@ -1,0 +1,5 @@
+package com.taufeeque.springCoreProblemStatement10;
+
+public class MovieBeanPostProcessor {
+
+}

@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Taufeeque
+ *
+ */
+module collectionFramework {
+}

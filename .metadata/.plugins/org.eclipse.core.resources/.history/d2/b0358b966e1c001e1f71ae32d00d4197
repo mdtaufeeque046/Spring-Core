@@ -1,0 +1,38 @@
+package com.taufeeque.springCoreProblemStatement10;
+
+public class Movie {
+
+	private String movieName;
+	private String director;
+
+	public String getMovieName() {
+		return movieName;
+	}
+
+	public void setMovieName(String movieName) {
+		this.movieName = movieName;
+	}
+
+	public String getDirector() {
+		return director;
+	}
+
+	public void setDirector(String director) {
+		this.director = director;
+	}
+	
+	   public void play() {
+	        System.out.println("Now playing: " + movieName + " directed by " + director);
+	    }
+	   public void beforeInitialization() {
+			System.out.println("Before initialization: Setting up movie details");
+	    }
+	        
+	    public void afterInitialization() {
+	        System.out.println("After initialization: Movie details configured");
+	    }
+
+		
+
+		
+}
